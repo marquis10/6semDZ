@@ -7,8 +7,4 @@ BC = Convert.ToInt32(Math.Sqrt(Math.Pow(x2 - x3, 2) + Math.Pow(y2 - y3, 2))),
 AC = Convert.ToInt32(Math.Sqrt(Math.Pow(x1 - x3, 2) + Math.Pow(y1 - y3, 2))), 
 P = (AB+BC+AC)/2, 
 S = Convert.ToInt32(Math.Sqrt(P*(P-AB)*(P-BC)*(P-AC)));
-Console.WriteLine($"Длина стороны AB = {AB}");
-Console.WriteLine($"Длина стороны BC = {BC}");
-Console.WriteLine($"Длина стороны AC = {AC}");
-Console.WriteLine($"Произведение полупериметра = {P}");
-Console.WriteLine($"Площадь треугольника по формуле Герона = {S}");
+Console.WriteLine($"Длина стороны AB = {AB}\nДлина стороны BC = {BC}\nДлина стороны AC = {AC}\nПроизведение полупериметра = {P}\nПлощадь треугольника по формуле Герона = {S}");
