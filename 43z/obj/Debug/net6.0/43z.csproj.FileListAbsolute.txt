@@ -1,0 +1,15 @@
+E:\GeekBrains Сетевой инженер\Пакет разработчик\Знакомство с языками программирования\Семинары\6semDZ\43z\bin\Debug\net6.0\43z.exe
+E:\GeekBrains Сетевой инженер\Пакет разработчик\Знакомство с языками программирования\Семинары\6semDZ\43z\bin\Debug\net6.0\43z.deps.json
+E:\GeekBrains Сетевой инженер\Пакет разработчик\Знакомство с языками программирования\Семинары\6semDZ\43z\bin\Debug\net6.0\43z.runtimeconfig.json
+E:\GeekBrains Сетевой инженер\Пакет разработчик\Знакомство с языками программирования\Семинары\6semDZ\43z\bin\Debug\net6.0\43z.dll
+E:\GeekBrains Сетевой инженер\Пакет разработчик\Знакомство с языками программирования\Семинары\6semDZ\43z\bin\Debug\net6.0\43z.pdb
+E:\GeekBrains Сетевой инженер\Пакет разработчик\Знакомство с языками программирования\Семинары\6semDZ\43z\obj\Debug\net6.0\43z.csproj.AssemblyReference.cache
+E:\GeekBrains Сетевой инженер\Пакет разработчик\Знакомство с языками программирования\Семинары\6semDZ\43z\obj\Debug\net6.0\43z.GeneratedMSBuildEditorConfig.editorconfig
+E:\GeekBrains Сетевой инженер\Пакет разработчик\Знакомство с языками программирования\Семинары\6semDZ\43z\obj\Debug\net6.0\43z.AssemblyInfoInputs.cache
+E:\GeekBrains Сетевой инженер\Пакет разработчик\Знакомство с языками программирования\Семинары\6semDZ\43z\obj\Debug\net6.0\43z.AssemblyInfo.cs
+E:\GeekBrains Сетевой инженер\Пакет разработчик\Знакомство с языками программирования\Семинары\6semDZ\43z\obj\Debug\net6.0\43z.csproj.CoreCompileInputs.cache
+E:\GeekBrains Сетевой инженер\Пакет разработчик\Знакомство с языками программирования\Семинары\6semDZ\43z\obj\Debug\net6.0\43z.dll
+E:\GeekBrains Сетевой инженер\Пакет разработчик\Знакомство с языками программирования\Семинары\6semDZ\43z\obj\Debug\net6.0\refint\43z.dll
+E:\GeekBrains Сетевой инженер\Пакет разработчик\Знакомство с языками программирования\Семинары\6semDZ\43z\obj\Debug\net6.0\43z.pdb
+E:\GeekBrains Сетевой инженер\Пакет разработчик\Знакомство с языками программирования\Семинары\6semDZ\43z\obj\Debug\net6.0\43z.genruntimeconfig.cache
+E:\GeekBrains Сетевой инженер\Пакет разработчик\Знакомство с языками программирования\Семинары\6semDZ\43z\obj\Debug\net6.0\ref\43z.dll
